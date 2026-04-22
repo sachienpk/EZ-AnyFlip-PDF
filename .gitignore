@@ -1,0 +1,9 @@
+# Temporary download folder
+temp_anyflip_pages/
+
+# Any generated PDFs
+*.pdf
+
+# System files
+Thumbs.db
+.DS_Store
